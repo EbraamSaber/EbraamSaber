@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello there, I'm Ebraam Saber!</h1>
+<h1 align="center">👋 Hello, I'm Ebraam Saber!</h1>
 
 <h3 align="center">
   Software Developer | Data Analyst | Data Scientist

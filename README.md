@@ -51,7 +51,7 @@ I enjoy exploring new technologies, analyzing data, developing applications, and
 ---
 
 <p align="center">
-  <b>💡 Learning, Building, and Turning Ideas into Reality.</b>
+  <b>💡 Learning, Building, and Turning Ideas into Reality</b>
 </p>
 
 <p align="center">
